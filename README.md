@@ -1,24 +1,5 @@
-# README
+# Conplete API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The "conplete" API aims to give a complete list of talks going on at different conferences. Conferences have many talks! This API helps track them. It processes requests as JSON request, with a permissive JSON API.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://github.com/sf-wdi-34/rails-5-api
