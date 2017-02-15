@@ -3,9 +3,7 @@ class ConferencesController < ApplicationController
 
   # GET /conferences
   def index
-    @conferences = Conference.all
 
-    render json: @conferences
   end
 
   # GET /conferences/1
